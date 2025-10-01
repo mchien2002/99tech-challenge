@@ -33,3 +33,9 @@ Server runs at: `http://localhost:3000`
 - `POST todos/v1/todo` - Create new todo
 - `PUT todos/v1/todo/:id` - Update todo
 - `DELETE todos/v1/todo/:id` - Delete todo
+
+## API Documentation (Swagger)
+
+Swagger UI is available at:
+
+👉 http://localhost:3000/api-docs
